@@ -1,0 +1,56 @@
+body{
+	background-color:white;
+}
+h1{
+
+	color: blue;
+	text-align: center;
+	font-size: 50px;
+
+}
+h2{
+	color:aquamarine;
+	text-align:center;
+	font: cursive;
+	font-size: 25px;
+
+}
+
+a{
+	color: red;
+}
+h3{
+	color:orange;
+}
+p {
+	color:brown;
+}
+.itallic{
+	font-style: normal;
+.bordestabla{ 
+color:cadetblue ;
+background-color:orange;
+border-radius: 10px;
+
+}
+
+table tr td{
+	color:black;
+}
+ 
+form{
+	color: green;
+ }
+ select{
+ 	color:darkblue;
+ }
+ input{
+ 	color:darkblue;
+ }
+  iframe{
+  	border-radius: 15px;
+    
+  }
+ div p{
+ 	color: darkgreen}
+ .

@@ -88,11 +88,7 @@ h3 {
         height: 40%;
         align-items: center;
     }
-    .nav-link {
-        color: transparent;
-        font-size: 1px;
-    }
-}
+     
 
 @media (min-width: 768px) {
     .logo {
@@ -104,8 +100,7 @@ h3 {
         height: 80%;
         align-items: center;
     }
-    .nav-link {
-        color: transparent;
+    .nav-link {        
         font-size: 1px;
     }
 }
